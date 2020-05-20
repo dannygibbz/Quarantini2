@@ -4,6 +4,8 @@ Quarantini is an app that helps users make delicious cocktails when they're trap
 
 The live site is here: https://fast-meadow-15479.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/55450945/81483698-1a7fc500-920e-11ea-971a-b9d80e7099f2.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -44,13 +46,3 @@ This app was built using the MERN stack.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Authors
-
-- **Daniel Gibbons**
-- **Dioris Diaz**
-- **Donavan Brown**
-
-## Acknowledgments
-
-- Many thanks to Quincy Iheme, Dan Gross, and all of the TA's at UPENN for teaching us.
