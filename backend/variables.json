@@ -1,4 +1,4 @@
 {
-  "ATLAS_URI": "mongodb+srv://dgibbons:dgibbons@cluster0-gamvq.mongodb.net/Group-Project-3",
+  "ATLAS_URI": "mongodb+srv://dgibbons:dgibbons@cluster0-ihnlz.mongodb.net/test",
   "JWT_SECRET": "KEY"
 }
