@@ -1,4 +1,4 @@
 {
-  "ATLAS_URI": "mongodb+srv://dgibbons:dgibbons@cluster0-ihnlz.mongodb.net/test",
+  "ATLAS_URI": "mongodb+srv://dgibbons:dgibbons@cluster0-ihnlz.mongodb.net/LiveQuarantini",
   "JWT_SECRET": "KEY"
 }
