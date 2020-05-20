@@ -1,0 +1,4 @@
+{
+  "ATLAS_URI": "mongodb+srv://dgibbons:dgibbons@cluster0-gamvq.mongodb.net/Group-Project-3",
+  "JWT_SECRET": "KEY"
+}
