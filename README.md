@@ -2,7 +2,7 @@
 
 Quarantini is an app that helps users make delicious cocktails when they're trapped at home. Whether searching old recipes or new, Quarantini has something for everyone. Kick back and get ready for some easy sipping!
 
-The live site is here: https://morning-springs-36292.herokuapp.com
+The live site is here: https://fast-meadow-15479.herokuapp.com/
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Deployment
 
-This site is deployed on Heroku at https://morning-springs-36292.herokuapp.com/
+This site is deployed on Heroku at https://fast-meadow-15479.herokuapp.com/
 
 ## Built With
 
