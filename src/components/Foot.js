@@ -17,7 +17,7 @@ function Foot() {
           color: "white",
           textAlign: "center",
         }}>
-        © 2020
+        © 2020 Dan Gibbons
       </Footer>
     </Layout>
   )
